@@ -2,3 +2,6 @@ initial
 add to local and changed files.
 new line from different repo
 for line from same repo
+new line rom public-git
+
+
