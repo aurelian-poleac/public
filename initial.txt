@@ -5,4 +5,4 @@ for line from same repo
 new line rom public-git
 new line from repo
 new line from git-public
-
+new line from repo
